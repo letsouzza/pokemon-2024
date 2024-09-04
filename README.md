@@ -15,4 +15,4 @@ Site do tipo lading page para divulgar o jogo Let's Go, Pikachu. O intuito desde
 
 ---
 # Autor
-- [Letícia Souza]
+- [Letícia Souza](https://www.linkedin.com/in/leticia-souza-almeida-84712a2b5/)
